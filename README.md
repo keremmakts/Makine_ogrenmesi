@@ -1,2 +1,2 @@
-# Makine-renmesi
+# Makine-öğrenmesi
 Makine öğrenmesi projelerim
