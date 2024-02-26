@@ -1,2 +1,2 @@
 # Makine-öğrenmesi
-Makine öğrenmesi projelerim
+Makine öğrenmesi dersi için yaptığım projelerim
